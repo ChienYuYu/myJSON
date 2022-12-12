@@ -382,7 +382,7 @@
     "content": "",
     "is_enabled": "",
     "tag": ""
-  }
+  },
   {
     "_id": "6396d5c8ba3c16a3f7209a76",
     "title": "超值aka燈泡|燈座|檯燈",
@@ -394,7 +394,7 @@
     "content": "",
     "is_enabled": "",
     "tag": ""
-  }
+  },
   {
     "_id": "6396d5c8ba3c16a3f7209a76",
     "title": "超值aka燈泡|燈座|檯燈",
@@ -406,7 +406,7 @@
     "content": "",
     "is_enabled": "",
     "tag": ""
-  }
+  },
   {
     "_id": "6396d5c8ba3c16a3f7209a76",
     "title": "超值aka燈泡|燈座|檯燈",
@@ -418,7 +418,7 @@
     "content": "",
     "is_enabled": "",
     "tag": ""
-  }
+  },
   {
     "_id": "6396d5c8ba3c16a3f7209a76",
     "title": "超值aka燈泡|燈座|檯燈",
@@ -430,7 +430,7 @@
     "content": "",
     "is_enabled": "",
     "tag": ""
-  }
+  },
   {
     "_id": "6396d5c8ba3c16a3f7209a76",
     "title": "超值aka燈泡|燈座|檯燈",
@@ -442,7 +442,7 @@
     "content": "",
     "is_enabled": "",
     "tag": ""
-  }
+  },
   {
     "_id": "6396d5c8ba3c16a3f7209a76",
     "title": "超值aka燈泡|燈座|檯燈",
@@ -454,7 +454,7 @@
     "content": "",
     "is_enabled": "",
     "tag": ""
-  }
+  },
   {
     "_id": "6396d5c8ba3c16a3f7209a76",
     "title": "超值aka燈泡|燈座|檯燈",
@@ -466,7 +466,7 @@
     "content": "",
     "is_enabled": "",
     "tag": ""
-  }
+  },
   {
     "_id": "6396d5c8ba3c16a3f7209a76",
     "title": "超值aka燈泡|燈座|檯燈",
@@ -478,25 +478,13 @@
     "content": "",
     "is_enabled": "",
     "tag": ""
-  }
+  },
   {
     "_id": "6396d5c8ba3c16a3f7209a76",
     "title": "超值aka燈泡|燈座|檯燈",
     "price": 60,
     "special_offer": false,
     "picture": "https://github.com/ChienYuYu/myJSON/blob/master/light_bulb_pic/bulb_lamp%20(41).jpg",
-    "category": "",
-    "description": "超省電 高質感 高效能LED燈泡",
-    "content": "",
-    "is_enabled": "",
-    "tag": ""
-  }
-  {
-    "_id": "6396d5c8ba3c16a3f7209a76",
-    "title": "超值aka燈泡|燈座|檯燈",
-    "price": 60,
-    "special_offer": false,
-    "picture": "https://github.com/ChienYuYu/myJSON/blob/master/light_bulb_pic/bulb_lamp%20(42).jpg",
     "category": "",
     "description": "超省電 高質感 高效能LED燈泡",
     "content": "",
