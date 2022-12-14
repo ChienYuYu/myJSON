@@ -1,6 +1,6 @@
 [
   {
-    "_id": "6396d5c8177666da855e8b79",
+    "id": "6396d5c8177666da855e8b79",
     "title": "T01超值檯燈",
     "price": 399,
     "special_offer": false,
@@ -12,7 +12,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c83cc6f1d2a63a9d93",
+    "id": "6396d5c83cc6f1d2a63a9d93",
     "title": "T02超值檯燈",
     "price": 299,
     "special_offer": false,
@@ -24,7 +24,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c83eb7ecc9cf1daf3e",
+    "id": "6396d5c83eb7ecc9cf1daf3e",
     "title": "D01超值吊燈",
     "price": 699,
     "special_offer": false,
@@ -36,7 +36,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8d0fe6c5a9bc91293",
+    "id": "6396d5c8d0fe6c5a9bc91293",
     "title": "T03超值床頭檯燈",
     "price": 199,
     "special_offer": false,
@@ -48,7 +48,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ad7de011ec05226d",
+    "id": "6396d5c8ad7de011ec05226d",
     "title": "S01省電螺旋燈泡",
     "price": 60,
     "special_offer": false,
@@ -60,7 +60,7 @@
     "tag": "hot"
   },
   {
-    "_id": "6396d5c84ca7dcb2c1db3313",
+    "id": "6396d5c84ca7dcb2c1db3313",
     "title": "B01省電LED燈泡",
     "price": 79,
     "special_offer": false,
@@ -72,7 +72,7 @@
     "tag": "hot"
   },
   {
-    "_id": "6396d5c87a46e60460d280a0",
+    "id": "6396d5c87a46e60460d280a0",
     "title": "T04超值床頭檯燈",
     "price": 379,
     "special_offer": false,
@@ -84,7 +84,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8bcc07c2015272396",
+    "id": "6396d5c8bcc07c2015272396",
     "title": "T05超值床頭檯燈",
     "price": 259,
     "special_offer": false,
@@ -96,7 +96,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c864d22014810e957f",
+    "id": "6396d5c864d22014810e957f",
     "title": "BB01質感壁燈",
     "price": 469,
     "special_offer": false,
@@ -108,7 +108,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c80462daf719627f81",
+    "id": "6396d5c80462daf719627f81",
     "title": "可調光LED燈泡",
     "price": 249,
     "special_offer": false,
@@ -120,7 +120,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8c5ca54a2f530d741",
+    "id": "6396d5c8c5ca54a2f530d741",
     "title": "爆閃LED燈泡",
     "price": 70,
     "special_offer": false,
@@ -132,7 +132,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8a205bdba7717c0c0",
+    "id": "6396d5c8a205bdba7717c0c0",
     "title": "ED01愛迪生燈泡",
     "price": 159,
     "special_offer": false,
@@ -144,7 +144,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c876ef2725d8b67f3f",
+    "id": "6396d5c876ef2725d8b67f3f",
     "title": "聲控LED燈泡",
     "price": 249,
     "special_offer": false,
@@ -156,7 +156,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8127f2257d7826861",
+    "id": "6396d5c8127f2257d7826861",
     "title": "金屬骨架吊燈",
     "price": 799,
     "special_offer": false,
@@ -168,7 +168,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8aaa7ffcf76e4dc43",
+    "id": "6396d5c8aaa7ffcf76e4dc43",
     "title": "W01質感文青風檯燈",
     "price": 60,
     "special_offer": false,
@@ -180,7 +180,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c87fbba63b5e1fb050",
+    "id": "6396d5c87fbba63b5e1fb050",
     "title": "LED省電燈泡480lm",
     "price": 60,
     "special_offer": false,
@@ -192,7 +192,7 @@
     "tag": "hot"
   },
   {
-    "_id": "6396d5c8d4656494f17a4f70",
+    "id": "6396d5c8d4656494f17a4f70",
     "title": "簡易風吊燈",
     "price": 199,
     "special_offer": false,
@@ -204,7 +204,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8f4e2c47a2885d3c3",
+    "id": "6396d5c8f4e2c47a2885d3c3",
     "title": "EDT01愛迪生燈泡檯燈組",
     "price": 499,
     "special_offer": false,
@@ -216,7 +216,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8e73c0ddf3b9fb876",
+    "id": "6396d5c8e73c0ddf3b9fb876",
     "title": "JJ01超值桌上檯燈",
     "price": 60,
     "special_offer": false,
@@ -228,7 +228,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c889ae474f1feb7731",
+    "id": "6396d5c889ae474f1feb7731",
     "title": "EDT02愛迪生燈泡檯燈組",
     "price": 399,
     "special_offer": false,
@@ -240,7 +240,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c824590465bcf21051",
+    "id": "6396d5c824590465bcf21051",
     "title": "特高床頭檯燈",
     "price": 599,
     "special_offer": false,
@@ -252,7 +252,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c85ed1b9cb1ee5629c",
+    "id": "6396d5c85ed1b9cb1ee5629c",
     "title": "DD01質感落地燈",
     "price": 1299,
     "special_offer": false,
@@ -264,7 +264,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c858422273cd72dad4",
+    "id": "6396d5c858422273cd72dad4",
     "title": "DD04質感落地燈",
     "price": 1399,
     "special_offer": false,
@@ -276,7 +276,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c83bb162973b61884b",
+    "id": "6396d5c83bb162973b61884b",
     "title": "CZ3編竹吊燈",
     "price": 459,
     "special_offer": false,
@@ -288,7 +288,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8fee412323a004c44",
+    "id": "6396d5c8fee412323a004c44",
     "title": "超值檯燈桌燈",
     "price": 269,
     "special_offer": false,
@@ -300,7 +300,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c85ca7c5e16ae8cb7e",
+    "id": "6396d5c85ca7c5e16ae8cb7e",
     "title": "GOP01超值檯燈",
     "price": 319,
     "special_offer": false,
@@ -312,7 +312,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ab435c90c85fbb9b",
+    "id": "6396d5c8ab435c90c85fbb9b",
     "title": "BB06愛迪生LED燈泡",
     "price": 100,
     "special_offer": false,
@@ -324,7 +324,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8705293111a808562",
+    "id": "6396d5c8705293111a808562",
     "title": "BB07愛迪生LED燈泡",
     "price": 100,
     "special_offer": false,
@@ -336,7 +336,7 @@
     "tag": "hot"
   },
   {
-    "_id": "6396d5c830427ee93517f95c",
+    "id": "6396d5c830427ee93517f95c",
     "title": "BB08愛迪生LED燈泡",
     "price": 130,
     "special_offer": false,
@@ -348,7 +348,7 @@
     "tag": "hot"
   },
   {
-    "_id": "6396d5c8a51bd117fd97adb7",
+    "id": "6396d5c8a51bd117fd97adb7",
     "title": "BB09愛迪生LED燈泡",
     "price": 120,
     "special_offer": false,
@@ -360,7 +360,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ba3c16a3f7209a76",
+    "id": "6396d5c8ba3c16a3f7209a76",
     "title": "復古LED燈泡8WE27",
     "price": 90,
     "special_offer": false,
@@ -372,7 +372,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ba3c16a3f7209a76",
+    "id": "6396d5c8ba3c16a3f7209a76",
     "title": "復古LED燈泡4WE27",
     "price": 60,
     "special_offer": false,
@@ -384,7 +384,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ba3c16a3f7209a76",
+    "id": "6396d5c8ba3c16a3f7209a76",
     "title": "復古LED燈泡8WB22",
     "price": 60,
     "special_offer": false,
@@ -396,7 +396,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ba3c16a3f7209a76",
+    "id": "6396d5c8ba3c16a3f7209a76",
     "title": "復古LED燈泡6WB22",
     "price": 60,
     "special_offer": false,
@@ -408,7 +408,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ba3c16a3f7209a76",
+    "id": "6396d5c8ba3c16a3f7209a76",
     "title": "CX3超值桌燈檯燈",
     "price": 199,
     "special_offer": false,
@@ -420,7 +420,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ba3c16a3f7209a76",
+    "id": "6396d5c8ba3c16a3f7209a76",
     "title": "RP3質感吊燈",
     "price": 469,
     "special_offer": false,
@@ -432,7 +432,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ba3c16a3f7209a76",
+    "id": "6396d5c8ba3c16a3f7209a76",
     "title": "W08木質燈座檯燈",
     "price": 199,
     "special_offer": false,
@@ -444,7 +444,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ba3c16a3f7209a76",
+    "id": "6396d5c8ba3c16a3f7209a76",
     "title": "Color繽紛吊燈系列",
     "price": 90,
     "special_offer": false,
@@ -456,7 +456,7 @@
     "tag": ""
   },
   {
-    "_id": "6396d5c8ba3c16a3f7209a76",
+    "id": "6396d5c8ba3c16a3f7209a76",
     "title": "LR3樓梯照明壁燈",
     "price": 249,
     "special_offer": false,
